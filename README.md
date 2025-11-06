@@ -39,13 +39,13 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/molende.png" width="500" alt="Molende Project"/>
-  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/ntaba.png" width="500" alt="Ntaba Project"/>
-  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/3dportfolio.jpg" width="500" alt="3D Portfolio"/>
-  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/cornerstreet.jpg" width="500" alt="Corner Street"/>
-  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/indiansavourydelights.jpg" width="500" alt="Indian Savoury Delights"/>
-  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/vuca.png" width="500" alt="Vuca Digital"/>
+<p float="left">
+  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/molende.png" width="49%" alt="Molende Project"/>
+  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/ntaba.png" width="49%" alt="Ntaba Project"/>
+  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/3dportfolio.jpg" width="49%" alt="3D Portfolio"/>
+  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/cornerstreet.jpg" width="49%" alt="Corner Street"/>
+  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/indiansavourydelights.jpg" width="49%" alt="Indian Savoury Delights"/>
+  <img src="https://github.com/jereshansinan/jereshansinan/blob/main/vuca.png" width="49%" alt="Vuca Digital"/>
 </p>
 
 <hr>
