@@ -54,8 +54,11 @@
 
 <br>
 
-<div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jereshansinan&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="jereshansinan's Most Used Languages" />
+<div float="center" align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=jereshansinan&theme=rose&layout=donut&hide=css&langs_count=8&show_icons=true&locale=en" alt="jereshansinan's Most Used Languages" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api?username=jereshansinan&show_icons=true&hide=stars&include_all_commits=true&rank_icon=percentile&theme=rose" />
 </div>
+
+
 
 <hr>
