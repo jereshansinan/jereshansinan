@@ -29,9 +29,10 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,mongodb,prisma,firebase,github,kotlin,mysql,nextjs,react,supabase,vercel" />
-  <img src="https://skillicons.dev/icons?i=html,css,androidstudio,tailwind,js,postman,figma,autocad,azure,blender,dotnet" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,autocad,azure,blender,css,dotnet,figma,git,github,html,javascript,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,planetscale,postman,prisma,react,supabase,tailwind,typescript,java,kotlin,nextjs,visualstudio,vercel" />
 </p>
+
 
 <hr>
 
