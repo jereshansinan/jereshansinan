@@ -32,6 +32,22 @@ This site is being built from the ground up using:
 
 <br>
 
+<hr>
+
+## ⚙️ Data Engineering Focus
+
+My experience in full-stack development serves as a strong foundation for specializing in **Data Engineering**. I am interested in bridging application development with strong data architecture and pipeline management.
+
+### Key Data-Centric Experience:
+
+* **Data Lifecycle Management:** My projects, such as the CRM application and the Molende Sports platform, require strict data control. This involved overseeing the entire application development lifecycle from design to deployment, ensuring data integrity and structure.
+* **Database Interaction (CRUD):** I have extensive, hands-on experience implementing core **CRUD** (Create, Read, Update, Delete) operations across various databases (Firebase, Supabase, SQL Server, etc.). This ensures efficient management of key features like task, opportunity, and product management.
+* **API & Data Ingestion:** I routinely utilized REST APIs for seamless data integration across services. This experience is important for designing data ingestion layers and connecting sources in an ETL/ELT framework.
+* **Quality & Security:** I utilized DevOps practices and tools like **SonarQube** and **Snyk** to implement CI/CD pipelines, ensuring high code quality and security, which is critical for maintaining reliable data pipelines.
+
+My next step is shifting into the FNB Data Engineering stream, where I am using my development skills to solve big data challenges and improve how information flows across FNB.
+<hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -88,11 +104,11 @@ These projects showcase my full-stack development, design, and problem-solving s
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=jereshansinan&theme=rose" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jereshansinan&layout=compact&show_icons=true&theme=rose&show_icons=true&include_all_commits=true" alt="JereshanSinans github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-stats-ashen-five-43.vercel.app/api?username=jereshansinan&layout=compact&show_icons=true&theme=rose&show_icons=true&include_all_commits=true" alt="JereshanSinans github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jereshansinan&layout=compact&theme=rose" alt="JereshanSinans github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-stats-ashen-five-43.vercel.app/api/top-langs/?username=jereshansinan&layout=compact&theme=rose" alt="JereshanSinans github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jereshansinan&theme=rose" alt="JereshanSinans github readme activity graph" width="60%" />
 </div>
 
