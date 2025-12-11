@@ -45,7 +45,7 @@ My experience in full-stack development serves as a strong foundation for specia
 * **API & Data Ingestion:** I routinely utilized REST APIs for seamless data integration across services. This experience is important for designing data ingestion layers and connecting sources in an ETL/ELT framework.
 * **Quality & Security:** I utilized DevOps practices and tools like **SonarQube** and **Snyk** to implement CI/CD pipelines, ensuring high code quality and security, which is critical for maintaining reliable data pipelines.
 
-My next step is shifting into the FNB Data Engineering stream, where I am using my development skills to solve big data challenges and improve how information flows across FNB.
+My next step is shifting into the FNB Data Engineering stream, where I can use my development skills to solve big data challenges and improve how information flows across FNB.
 <hr>
 
 ## 🛠️ Languages and Tools
