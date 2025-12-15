@@ -29,7 +29,19 @@ This site is being built from the ground up using:
 - React Three Fiber (R3F) and Three.js, three-mesh-bhv and GSAP to build and animate a real-time, interactive 3D scene.
 
 - Blender for 3D asset creation, optimized for live web use.
+A full-stack software developer transitioning to Data Engineering, passionate about building beautiful, detailed, and functional applications.
 
+My immediate focus is leveraging my proficiency in CRUD operations and database design (SQL Server, CockroachDB) as a foundational step toward becoming a certified Data Engineer. I am actively planning to pursue Databricks and Microsoft Azure Data certifications next year to formalize my expertise in scalable data infrastructure.
+
+I am currently developing my new 3D interactive portfolio, a project that merges my technical development skills with my creative passion for 3D design.
+
+This site is being built from the ground up using:
+
+Next.js for a high-performance, server-rendered React application.
+
+React Three Fiber (R3F) and Three.js, three-mesh-bhv and GSAP to build and animate a real-time, interactive 3D scene.
+
+Blender for 3D asset creation, optimized for live web use.
 <br>
 
 <hr>
