@@ -24,7 +24,7 @@
 
 My immediate focus is leveraging my proficiency in CRUD operations and database design as a foundational step toward becoming a certified Data Engineer. I am actively planning to pursue Databricks and Microsoft Azure Data certifications next year to formalize my expertise in scalable data infrastructure.
 
-### I am currently developing my new 3D interactive portfolio, a project that merges my technical development skills with my creative passion for 3D design.
+### My most recent project is my 3D interactive portfolio, a project that merges my technical development skills with my creative passion for 3D design.
 
 This site is being built from the ground up using:
 
@@ -107,12 +107,12 @@ These projects showcase my full-stack development, design, and problem-solving s
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=jereshansinan&theme=rose" width="51%"/>
-  <img align="center" src="https://jereshansinan-stats.vercel.app/api?username=jereshansinan&layout=compact&show_icons=true&theme=rose&show_icons=true&include_all_commits=true" alt="JereshanSinans github-readme-stats" width="48%" />
+  <img align="center" src="https://jereshansinan-stats.vercel.app/api?username=jereshansinan&layout=compact&show_icons=true&theme=rose&show_icons=true&include_all_commits=true&show=prs_merged&hide=issues" alt="JereshanSinans github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
   <img align="center" src="https://jereshansinan-stats.vercel.app/api/top-langs/?username=jereshansinan&layout=compact&theme=rose" alt="JereshanSinans github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jereshansinan&theme=rose" alt="JereshanSinans github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jereshansinan&theme=rose&bg_color=e9d8d4&color=8d192b&line=8d192b&point=8d192b&radius=15" alt="JereshanSinans github readme activity graph" width="60%" />
 </div>
 
 
