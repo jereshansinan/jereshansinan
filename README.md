@@ -106,12 +106,12 @@ These projects showcase my full-stack development, design, and problem-solving s
 <br>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=jereshansinan&theme=rose" width="51%" />
-  <img align="center" src="https://github-readme-stats-ashen-five-43.vercel.app/api?username=jereshansinan&layout=compact&show_icons=true&theme=rose&show_icons=true&include_all_commits=true" alt="JereshanSinans github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=jereshansinan&theme=rose" width="51%"/>
+  <img align="center" src="https://jereshansinan-stats.vercel.app/api?username=jereshansinan&layout=compact&show_icons=true&theme=rose&show_icons=true&include_all_commits=true" alt="JereshanSinans github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats-ashen-five-43.vercel.app/api/top-langs/?username=jereshansinan&layout=compact&theme=rose" alt="JereshanSinans github readme top-langs" width="39%" />
+  <img align="center" src="https://jereshansinan-stats.vercel.app/api/top-langs/?username=jereshansinan&layout=compact&theme=rose" alt="JereshanSinans github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jereshansinan&theme=rose" alt="JereshanSinans github readme activity graph" width="60%" />
 </div>
 
