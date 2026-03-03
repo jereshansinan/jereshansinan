@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jereshansinan/jereshansinan/main/header.png" alt="Banner">
+<img src="https://github.com/jereshansinan/jereshansinan/blob/main/header.png" alt="Banner">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=fff&duration=4000&lines=Hi+There!+👋;+I'm+Jereshan+Sinan!;" />
