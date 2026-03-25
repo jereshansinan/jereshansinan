@@ -40,16 +40,16 @@ This site is being built from the ground up using:
 
 ## ⚙️ Data Engineering Focus
 
-My experience in full-stack development serves as a strong foundation for specializing in **Data Engineering**. I am interested in bridging application development with strong data architecture and pipeline management.
+My background in full-stack development serves as the structural foundation for my specialization in **Data Engineering**. I bridge complex application logic with scalable data architecture and automated pipeline management.
 
 ### Key Data-Centric Experience:
 
-* **Data Lifecycle Management:** My projects, such as the CRM application and the Molende Sports platform, require strict data control. This involved overseeing the entire application development lifecycle from design to deployment, ensuring data integrity and structure.
-* **Database Interaction (CRUD):** I have extensive, hands-on experience implementing core **CRUD** (Create, Read, Update, Delete) operations across various databases (Firebase, Supabase, SQL Server, etc.). This ensures efficient management of key features like task, opportunity, and product management.
-* **API & Data Ingestion:** I routinely utilized REST APIs for seamless data integration across services. This experience is important for designing data ingestion layers and connecting sources in an ETL/ELT framework.
-* **Quality & Security:** I utilized DevOps practices and tools like **SonarQube** and **Snyk** to implement CI/CD pipelines, ensuring high code quality and security, which is critical for maintaining reliable data pipelines.
+* **End-to-End ETL Pipelines:** I architected comprehensive data lifecycles within the FNB stream, transitioning raw datasets through ingestion, cleaning (Python/Pandas), and relational modeling (Power Query) to deliver "Executive-Ready" business intelligence.
+* **Relational Modeling & DAX:** Beyond standard **CRUD** operations, I specialize in building complex Star Schemas and Fact Tables. My work involves engineering advanced DAX measures for performance tracking, variance analysis, and multi-year growth forecasting.
+* **Commercial Property Analytics:** Engineered an automated BI dashboard for FNB's Commercial Property Finance division by restructuring legacy datasets and applying strict ETL transformations.
+* **Governance & Pipeline Integrity:** Utilizing DevOps principles, I integrate **Data Governance** (RLS/Lineage) and quality checks into the CI/CD workflow. This ensures that high-volume data streams remain secure, compliant, and architecturally sound.
 
-My next step is shifting into the FNB Data Engineering stream, where I can use my development skills to solve big data challenges and improve how information flows across FNB.
+I am now applying this integrated developer-engineer mindset within the FNB Data Engineering ecosystem to solve big data challenges and optimize high-velocity information flows.
 <hr>
 
 ## 🛠️ Languages and Tools
@@ -57,18 +57,18 @@ My next step is shifting into the FNB Data Engineering stream, where I can use m
 <br>
 
 <div align="center">
-    
+
 | Frontend & UI/UX | Backend & Logic | Databases & Storage | DevOps & Security | Other Tools & IDEs |
 | :--- | :--- | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=react" alt="React" width="30"/> <code>React</code> | <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30"/> <code>Java</code> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30"/> <code>MySQL</code> | <img src="https://skillicons.dev/icons?i=git" alt="Git" width="30"/> <code>Git</code> | <img src="https://skillicons.dev/icons?i=blender" alt="Blender" width="30"/> <code>Blender (3D)</code> |
-| <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="30"/> <code>Next.js</code> | <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="30"/> <code>Kotlin</code> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="30"/> <code>MongoDB</code> | <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30"/> <code>GitHub</code> | <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="30"/> <code>AutoCAD</code> |
-| <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="30"/> <code>TypeScript</code> | <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="30"/> <code>Node.js</code> | <img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" width="30"/> <code>PlanetScale</code> | <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="30"/> <code>Vercel</code> | <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="30"/> <code>Android Studio</code> |
-| <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30"/> <code>JavaScript</code> | <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="30"/> <code>.NET</code> | <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="30"/> <code>Supabase</code> | <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30"/> <code>Azure</code> | <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="30"/> <code>Postman</code> |
-| <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="30"/> <code>Tailwind CSS</code> | <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="30"/> <code>Prisma (ORM)</code> | | <img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" alt="Snyk" width="30"/> <code>Snyk (Security)</code> | <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30"/> <code>Visual Studio</code> |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn" width="30"/> <code>shadcn/ui</code> | <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" alt="Clerk" width="30"/> <code>Clerk (Auth)</code> | | <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="30"/> <code>Netlify</code> | <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30"/> <code>VS Code</code> |
-| <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="30"/> <code>CSS3</code> | | | <img src="https://go-skill-icons.vercel.app/api/icons?i=ngrok" alt="ngrok" width="30"/> <code>ngrok</code> | |
-| <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="30"/> <code>HTML5</code> | | | | |
-| <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="30"/> <code>Figma (Design)</code> | | | | |
+| <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="30"/> <code>Next.js</code> | <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30"/> <code>Python</code> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="30"/> <code>MongoDB</code> | <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30"/> <code>GitHub</code> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="30"/> <code>Power BI</code> |
+| <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="30"/> <code>TypeScript</code> | <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="30"/> <code>Kotlin</code> | <img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" width="30"/> <code>PlanetScale</code> | <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="30"/> <code>Linux</code> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" alt="Excel" width="30"/> <code>Excel</code> |
+| <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="30"/> <code>JavaScript</code> | <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="30"/> <code>Node.js</code> | <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="30"/> <code>Supabase</code> | <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="30"/> <code>Azure</code> | <img src="https://skillicons.dev/icons?i=gcp" alt="Google Colab" width="30"/> <code>Google Colab</code> |
+| <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="30"/> <code>Tailwind CSS</code> | <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" width="30"/> <code>.NET</code> | | <img src="https://go-skill-icons.vercel.app/api/icons?i=snyk" alt="Snyk" width="30"/> <code>Snyk (Security)</code> | <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30"/> <code>Visual Studio</code> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn" width="30"/> <code>shadcn/ui</code> | <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="30"/> <code>Prisma (ORM)</code> | | <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="30"/> <code>Vercel</code> | <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30"/> <code>VS Code</code> |
+| <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="30"/> <code>CSS3</code> | <img src="https://go-skill-icons.vercel.app/api/icons?i=clerk" alt="Clerk" width="30"/> <code>Clerk (Auth)</code> | | <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="30"/> <code>Netlify</code> | <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="30"/> <code>Android Studio</code> |
+| <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="30"/> <code>HTML5</code> | | | <img src="https://go-skill-icons.vercel.app/api/icons?i=ngrok" alt="ngrok" width="30"/> <code>ngrok</code> | <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="30"/> <code>Postman</code> |
+| <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="30"/> <code>Figma (Design)</code> | | | | <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="30"/> <code>AutoCAD</code> |
 
 </div>
 
@@ -86,20 +86,6 @@ My next step is shifting into the FNB Data Engineering stream, where I can use m
   <img src="https://github.com/jereshansinan/jereshansinan/blob/main/indiansavourydelights.jpg" width="49%" alt="Indian Savoury Delights"/>
   <img src="https://github.com/jereshansinan/jereshansinan/blob/main/vuca.png" width="49%" alt="Vuca Digital"/>
 </p>
-
-## 🚀 My Top Projects & Solutions
-
-These projects showcase my full-stack development, design, and problem-solving skills across various industries, including my freelance work.
-
-| Project Title (Main Frameworks) | Short & Clear Description | Repository Link |
-| :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
-| **VUCA Digital CRM** (Kotlin, Firebase) | A Customer Relationship Management system built for a client, focusing on streamlined customer data management and secure API handling. | [View Repo](https://github.com/jereshansinan/VUCA-DIGITAL) |
-| **Corner Street Burgers & Wings** (Next.js, React) | A responsive, high-performance restaurant website designed to improve user experience and reduce load times by optimizing and statically hosting image assets. | [View Repo](https://github.com/jereshansinan/CornerStreet) |
-| **MolendeSports** (Next.js, Supabase, Clerk) | Business website replacing the company’s reliance on third-party tools like Everfit with a centralised, custom solution. | [View Website](https://molendesports.com/) |
-| **Indian Savoury Delights** (Next.js, React) | Business website to highlight the company's story, menu, and ordering process and align branding across digital and physical assets. | [View Website](https://indiansavourydelights.vercel.app/) |
-| **Ntaba Ya Jozi** (Next.js, React) | Responsive promotional website to showcase the brand’s offerings, featuring a Home, Contact, and Menu page | [View Website](https://ntabayajozi.com/) |
-| **My 3D Portfolio** (Blender, Figma, WebGL) | A showcase blending design, 3D modelling/animation, and UI/UX concepts to demonstrate creative technical skills outside of core development. | [View Website](https://jereshansinan.netlify.app) |
-
 <hr>
 
 ## ⚡️ Stats
